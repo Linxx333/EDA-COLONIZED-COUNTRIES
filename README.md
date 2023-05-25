@@ -1,6 +1,6 @@
 # EDA-Colonized-Countries
 
-![Colonias](img/colonias.jpg)
+![Colonias](img/colonias.png)
 
 # Objetivo principal
 
@@ -28,7 +28,7 @@ La estructura de la historia en este caso se dividió entre:
 
 - Y luego por partes centrarnos en los tres paises colonizadores de mayor relevancia (España, Francia y Reino Unido) y en su métrica más representativa
 
-![historia](img/dashboard.jpg)
+![historia](img/dashboard.png)
 
 # Análisis
 
